@@ -41,7 +41,7 @@ Working as part of a project team of 2-4 developers, you will
 #### Kontakt
 
 ART+COM AG<br>
-Danuta Wolf<br>
+Danuta von Wolff<br>
 Kleiststraße 23-26<br>
 10787 Berlin<br>
 
