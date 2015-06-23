@@ -20,7 +20,7 @@ Als Mitglied unserer 2-4 köpfigen Entwicklerteams wirst du
 - Bachelor / Master Abschluss als Informatiker oder vergleichbare praktische Erfahrung
 - Vertieftes technisches Wissen und Erfahrungen in JavaScript, Java, Ruby oder C#
 - Als Teil des Teams eigene Verantwortung übernehmen und Projekte aktiv mit gestalten
-- Hohe Ansprüche an Teamkultur und Source Code
+- Hohe Ansprüche an Teamkultur und Source Code Qualität
 
 ### Zusätzlich
 
