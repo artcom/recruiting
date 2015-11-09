@@ -10,7 +10,7 @@ Wir sind ein junges, anspruchsvolles Team. Dich erwarten agile/evolutionäre Met
 
 Als Mitglied unserer 2-4 köpfigen Entwicklerteams wirst du
 
-- interdisziplinär mit unseren Konzeptern und UX Experten Web Apps und User Interfaces entwerfen
+- interdisziplinär mit unseren Konzeptern und UX Experten Web Applications und User Interfaces entwerfen
 - aufgabenbezogen die richtigen Technologien und Tools definieren
 - in enger Zusammenarbeit mit den Backend Entwicklern stehen und diese unterstützen
 - State-of-the-Art Frontend Entwicklung betreiben
@@ -18,13 +18,13 @@ Als Mitglied unserer 2-4 köpfigen Entwicklerteams wirst du
 ## Anforderungen
 
 - Bachelor / Master Abschluss als Informatiker oder vergleichbare praktische Erfahrung
-- Vertieftes technisches Wissen und Erfahrungen in JavaScript, Java, Ruby oder C#
+- Vertieftes technisches Wissen und Erfahrungen in JavaScript, Java oder C#
 - Als Teil des Teams eigene Verantwortung übernehmen und Projekte aktiv mit gestalten
 - Hohe Ansprüche an Teamkultur und Source Code Qualität
 
 ### Zusätzlich
 
-- Erfahrungen mit JavaScript Frameworks, Mobile Web Apps, Backend Technologien, Web-API's und Unity 3D
+- Erfahrungen mit JavaScript Frameworks ( z.B. React ), Mobile Web Apps, Deployment Technologien, Web-API's und Unity 3D
 - Freude an agiler Entwicklung, Test Driven Development, Continuous Integration & Deployment
 - Enthusiasmus zu Lernen
 
@@ -38,9 +38,9 @@ Als Mitglied unserer 2-4 köpfigen Entwicklerteams wirst du
 #### Kontakt
 
 ART+COM AG<br>
-Danuta von Wolff<br>
-Kleiststraße 23-26<br>
-10787 Berlin<br>
+Fabian Bützow<br>
+Lichtstr. 50<br>
+50825 Köln<br>
 
 <jobs@artcom.de><br>
 <http://www.artcom.de>
