@@ -4,13 +4,11 @@ Wir nutzen neue Technologien als künstlerische Ausdrucksmittel und als Medien z
 
 Bei uns arbeiten Mediengestalter, Medienkünstler, IT-Entwickler, Technologen, Programmierer, Kommunikations- und Produktgestalter, Wissenschaftler, Ingenieure und Projektmanager Hand in Hand. Projekte werden in kleinen, interdisziplinären Teams aus ihren individuellen Kontexten heraus entwickelt. Was uns motiviert, ist der Anspruch, Grenzen zu verschieben und gemeinsam Neues zu schaffen.
 
-# Technischer Supporter Multimedia (w/m)
-# Multimedia Support Ingenieur (w/m)
 # Support-Mitarbeiter für IT und Multimedia-Technologien (w/m)
 
 Unsere medialen Installationen inspirieren Besucher in Deutschland und weltweit. Damit dies auch so bleibt, suchen wir dich zur Verstärkung unseres technischen Support-Teams.
 
-Nach der Maxime "Keine Angst vor Technik", wirst du als technischer Generalist mit interdisziplinären Kollegen unsere Exponate warten und im Fehlerfall Lösungen finden. Dazu wirst du sowohl im Büro als auch vor Ort arbeiten können. Gerne würden wir dich auch in die Konzeption und Realisierung von anderen Projekten einbinden wollen, je nach Interesse und Kenntnis.
+Nach der Maxime "Keine Angst vor Technik", wirst du als technischer Generalist mit interdisziplinären Kollegen unsere Exponate warten und im Fehlerfall Lösungen finden. Dazu arbeitest du im Büro und auch vor Ort, wo du einige der kreativsten medialen Installationen der Welt betreuen kannst. Gerne würden wir dich auch in die Konzeption und Realisierung von anderen Projekten einbinden wollen, je nach Interesse und Kenntnis.
 
 Wir sind ein junges, anspruchsvolles Team. Dich erwarten abwechslungsreiche Aufgaben, flache Hierarchien und eine sehr kollegiale Atmosphäre.
 
@@ -27,11 +25,13 @@ Installationen
 
 * Tiefes Verständnis von digitalen Technologien und Zusammenhängen
 * Netzwerk- und Servertechnologien (DNS, DHCP, Router-Konfiguration, Firewall-Konfiguration)
-* Windows, Mac, Linux Betriebssysteme
+* Linux, Windows, Mac Betriebssysteme
 * Installation, Austausch und Wartung von Computer- und
 Medientechnik-Hardware
 * Sorgfältiges, serviceorientiertes Arbeiten
 * Eigeninitiative & Flexibilität
+* Englischkenntnisse
+* Führerschein PKW
 * Interesse an Software Entwicklung & Mikrocontroller Technologie
 
 ---
