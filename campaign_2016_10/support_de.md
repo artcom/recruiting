@@ -10,9 +10,9 @@ Bei uns arbeiten Mediengestalter, Medienkünstler, IT-Entwickler, Technologen, P
 
 Unsere medialen Installationen inspirieren Besucher in Deutschland und weltweit. Damit dies auch so bleibt, suchen wir dich zur Verstärkung unseres technischen Support-Teams.
 
-Nach der Maxime "Keine Angst vor Technik" wirst du als technischer Generalist mit interdisziplinären Kollegen unsere Exponate warten und im Fehlerfall Lösungen finden. Dazu wirst du sowohl im Büro als auch vor Ort arbeiten können. Gerne würden wir dich auch in die Konzeption und Realisierung von anderen Projekten einbinden wollen, je nach Interesse und Kenntnis.
+Nach der Maxime "Keine Angst vor Technik", wirst du als technischer Generalist mit interdisziplinären Kollegen unsere Exponate warten und im Fehlerfall Lösungen finden. Dazu wirst du sowohl im Büro als auch vor Ort arbeiten können. Gerne würden wir dich auch in die Konzeption und Realisierung von anderen Projekten einbinden wollen, je nach Interesse und Kenntnis.
 
-Wir sind ein junges, anspruchsvolles Team. Dich erwarten abwechselungsreiche Aufgaben, flache Hierarchien und eine sehr kollegiale Atmosphäre.
+Wir sind ein junges, anspruchsvolles Team. Dich erwarten abwechslungsreiche Aufgaben, flache Hierarchien und eine sehr kollegiale Atmosphäre.
 
 ### Rolle und Aufgaben
 
@@ -30,8 +30,8 @@ Installationen
 * Windows, Mac, Linux Betriebssysteme
 * Installation, Austausch und Wartung von Computer- und
 Medientechnik-Hardware
-* Sorgfältiges, Serviceorientiertes Arbeiten
-* Eigeninitiative & Flexibiliät
+* Sorgfältiges, serviceorientiertes Arbeiten
+* Eigeninitiative & Flexibilität
 * Interesse an Software Entwicklung & Mikrocontroller Technologie
 
 ---
