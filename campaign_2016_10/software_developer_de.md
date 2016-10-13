@@ -4,7 +4,7 @@ Wir nutzen neue Technologien als künstlerische Ausdrucksmittel und als Medien z
 
 Bei uns arbeiten Mediengestalter, Medienkünstler, IT-Entwickler, Technologen, Programmierer, Kommunikations- und Produktgestalter, Wissenschaftler, Ingenieure und Projektmanager Hand in Hand. Projekte werden in kleinen, interdisziplinären Teams aus ihren individuellen Kontexten heraus entwickelt. Was uns motiviert, ist der Anspruch, Grenzen zu verschieben und gemeinsam Neues zu schaffen.
 
-# Junior Software Entwickler (w/m)
+# (Junior) Software Entwickler (w/m)
 
 ## Aufgaben
 
@@ -29,7 +29,6 @@ Darüber hinaus wählen wir je nach Anforderung passende Lösungen. Nach dem Mot
 * Arbeitsbeginn: zum nächstmöglichen Zeitpunkt
 * Vertragsart: Vollzeit in unbefristeter Festanstellung
 * Arbeitsort: Köln
-* Vergütung: Gehaltsvorstellung bitte angeben
 
 #### Kontakt
 
