@@ -8,11 +8,9 @@ Bei uns arbeiten Mediengestalter, Medienkünstler, IT-Entwickler, Technologen, P
 
 ## Aufgaben
 
-Softwareentwicklung ist eine ganzheitliche Herausforderung. Deshalb umfasst der Aufgabenbereich unserer Entwickler unter anderem die Konzeption von Projekten gemeinsam mit dem Auftraggeber, die Umsetzung eigener Ideen mit Kollegen verschiedener Disziplinen, die Anleitung von QA und das Software Deployment.
+Softwareentwicklung ist eine ganzheitliche Herausforderung: Wir entwickeln Projekte iterativ mit dem Auftraggeber gemeinsam und setzen Ideen zusammen mit Kollegen verschiedener Disziplinen um. Darüber hinaus gehören die Anleitung von QA und das Software Deployment zu den Aufgaben in der Entwicklung.
 
-Wir sind ein junges, anspruchsvolles Team. Dich erwarten agile / evolutionäre Methoden, flache Hierarchien und eine sehr kollegiale Atmosphäre.
-
-Wir suchen Berufseinsteiger, Quereinsteiger und Autodidakten, die sich als Teil dieses Teams weiterentwickeln wollen.
+Wir sind ein junges, anspruchsvolles Team. Dich erwarten agile / evolutionäre Methoden, flache Hierarchien und eine sehr kollegiale Atmosphäre. Wir suchen Berufs- oder Quereinsteiger und Autodidakten, die sich als Teil dieses Teams weiterentwickeln wollen.
 
 ## Anforderungen
 
@@ -22,20 +20,12 @@ Aktuell verwenden wir in vielen unserer Exponate Technologien wie:
 * Android / iOS
 * Unity
 
-Darüber hinaus wählen wir je nach Anforderung passende Lösungen. Nach dem Motto: "Hire for talent, not skills" erwarten wir, dass du dich in diese Technologien vertiefst und Freude hast sie einzusetzen. Dabei begleitet dich dein Team mit Methoden wie Pair-Programming oder Code-Reviews. In Kürze wirst du eigene Verantwortung übernehmen und Projekte aktiv mitgestalten können.
+Darüber hinaus wählen wir je nach Anforderung passende Lösungen. Wir fördern Talente, die Verantwortung übernehmen, eigene Vorstellungen entwickeln und verwirklichen wollen, die sich in diese Technologien vertiefen und kreative Lösungen abseits der ausgetretenen Pfade suchen. Dabei unterstützen sich unsere Entwickler mit Methoden wie Pair-Programming oder Code-Reviews.
 
----
+## Eckdaten
 
 * Arbeitsbeginn: zum nächstmöglichen Zeitpunkt
 * Vertragsart: Vollzeit in unbefristeter Festanstellung
 * Arbeitsort: Köln
 
-#### Kontakt
-
-ART+COM AG<br>
-Fabian Bützow<br>
-Lichtstr. 50<br>
-50825 Köln<br>
-
-<jobs@artcom.de><br>
-<http://www.artcom.de>
+Wir freuen uns über Bewerbungen im pdf-Format und per E-Mail an: Fabian Bützow, <jobs@artcom.de>
