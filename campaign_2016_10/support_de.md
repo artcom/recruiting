@@ -26,7 +26,7 @@ Wir sind ein junges, anspruchsvolles Team. Dich erwarten abwechslungsreiche Aufg
   * Linux, Windows, Mac-Betriebssysteme
   * Installation, Austausch und Wartung von Computer- und Medientechnik-Hardware
 * sorgfältiges, serviceorientiertes Arbeiten
-* Eigeninitiative und  Flexibilität
+* Eigeninitiative und Flexibilität
 * Englischkenntnisse
 * Führerschein PKW
 * Interesse an Software-Entwicklung und Mikrocontrollertechnologie
