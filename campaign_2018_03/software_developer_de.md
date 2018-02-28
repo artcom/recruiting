@@ -20,6 +20,7 @@ Aktuell verwenden wir in vielen unserer Exponate Technologien wie:
 * Unity
 * Mikrocontroller
 * Android / iOS
+
 Und zumindest mit einer der ersten beiden Technologien solltest Du bereits Projekte umgesetzt haben.
 
 Darüber hinaus wählen wir je nach Anforderung passende Lösungen. Wir fördern Talente, die Verantwortung übernehmen, eigene Vorstellungen entwickeln und verwirklichen wollen, die sich in diese Technologien vertiefen und kreative Lösungen abseits der ausgetretenen Pfade suchen. Dabei unterstützen sich unsere Entwickler mit Methoden wie Pair-Programming oder Code-Reviews.
